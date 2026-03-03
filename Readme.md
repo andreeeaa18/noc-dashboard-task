@@ -32,3 +32,5 @@ Creați o nouă componentă reutilizabilă numită <SummaryPanel /> și plasați
 ## Sarcina 5 (2p)
 
 Adăugați un buton global "Emergency Reboot All" în interiorul componentei <SummaryPanel />. Apăsarea acestui buton trebuie să reseteze simultan proprietatea load a tuturor dispozitivelor la 0 și să readucă statusul fiecăruia la "Active". 
+
+### Exemplu de solutie: https://noc-dashboard-solved.vercel.app/
